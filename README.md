@@ -2,7 +2,7 @@
 
 [Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme using nerd fonts to render icons.
 
-![](screenshot.png)
+![](screen.png)
 
 ## Installing Theme
 

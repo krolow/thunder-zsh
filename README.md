@@ -1,6 +1,6 @@
 # Thunder oh-my-zsh theme
 
-[Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme using nerd fonts to render icons.
+[Oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) theme using [nerd fonts](https://github.com/ryanoasis/nerd-fonts/) to render icons.
 
 ![](screen.png)
 
